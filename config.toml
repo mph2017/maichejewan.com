@@ -48,11 +48,11 @@ paginate = 100 #frontpage pagination
   url = "contact/"
 
   [params.social]
-  facebook      = "facebook.com/maichejewan"
+  facebook      = "maichejewan"
   #googleplus    = "full profile url in googleplus"
   email         = "maichejewan@gmail.com"
   #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
  #stackoverflow = "full profile url in stackoverflow"
-  instagram     = "instagram.com/maichejewan"
+  instagram     = "maichejewan"
   #github        = "full profile url in github"

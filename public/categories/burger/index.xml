@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Burger on Maiche Jewan</title>
+    <link>/categories/burger/</link>
+    <description>Recent content in Burger on Maiche Jewan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
+    <lastBuildDate>Mon, 01 May 2017 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/burger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Burger Chilly Fry</title>
+      <link>/post/burger-chilly-fry-2/</link>
+      <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/burger-chilly-fry-2/</guid>
+      <description>&lt;p&gt;Burger Chilly Fry
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Burger and green peas pulao</title>
+      <link>/post/burger-and-green-peas-pulao/</link>
+      <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/burger-and-green-peas-pulao/</guid>
+      <description>&lt;p&gt;Burger and green peas pulao
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

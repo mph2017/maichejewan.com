@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Novem on Maiche Jewan</title>
+    <link>/categories/novem/</link>
+    <description>Recent content in Novem on Maiche Jewan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
+    <lastBuildDate>Fri, 07 Jul 2017 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/novem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tendli (Ivy gourd) mix</title>
+      <link>/post/tendli-ivy-gourd-mix/</link>
+      <pubDate>Fri, 07 Jul 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/tendli-ivy-gourd-mix/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gosalen (Ridge gourd)</title>
+      <link>/post/gosalen-ridge-gourd/</link>
+      <pubDate>Thu, 07 Sep 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/gosalen-ridge-gourd/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>French beans tel piyao</title>
+      <link>/post/french-beans-tel-piyao/</link>
+      <pubDate>Fri, 27 Jan 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/french-beans-tel-piyao/</guid>
+      <description>&lt;p&gt;French beans tel piyao
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sprouted mung (green lentils)</title>
+      <link>/post/sprouted-moong-green-lentils/</link>
+      <pubDate>Wed, 06 Sep 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/sprouted-moong-green-lentils/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

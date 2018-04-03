@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mutton on Maiche Jewan</title>
+    <link>/categories/mutton/</link>
+    <description>Recent content in Mutton on Maiche Jewan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
+    <lastBuildDate>Thu, 09 Nov 2017 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/mutton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mutton sukka Dry</title>
+      <link>/post/mutton-suka-dry/</link>
+      <pubDate>Thu, 09 Nov 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/mutton-suka-dry/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

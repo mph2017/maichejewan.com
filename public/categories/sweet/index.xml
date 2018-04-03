@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sweet on Maiche Jewan</title>
+    <link>/categories/sweet/</link>
+    <description>Recent content in Sweet on Maiche Jewan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
+    <lastBuildDate>Fri, 07 Jul 2017 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/sweet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vorn</title>
+      <link>/post/vorn-sweet-lentils/</link>
+      <pubDate>Fri, 07 Jul 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/vorn-sweet-lentils/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gajar ka Halwa</title>
+      <link>/post/gajar-halwa/</link>
+      <pubDate>Sat, 01 Jul 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/gajar-halwa/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Semolina (Rava) Kheer</title>
+      <link>/post/semolina-kheer/</link>
+      <pubDate>Sat, 01 Jul 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/semolina-kheer/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bread Pudding</title>
+      <link>/post/bread-pudding/</link>
+      <pubDate>Sat, 18 Feb 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/bread-pudding/</guid>
+      <description>&lt;p&gt;Bread Pudding&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kheer</title>
+      <link>/post/kheer/</link>
+      <pubDate>Fri, 27 Jan 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/kheer/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

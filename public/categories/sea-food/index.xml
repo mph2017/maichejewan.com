@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sea-food on Maiche Jewan</title>
+    <link>/categories/sea-food/</link>
+    <description>Recent content in Sea-food on Maiche Jewan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
+    <lastBuildDate>Thu, 07 Sep 2017 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/sea-food/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crab masala</title>
+      <link>/post/crab-masala/</link>
+      <pubDate>Thu, 07 Sep 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/crab-masala/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

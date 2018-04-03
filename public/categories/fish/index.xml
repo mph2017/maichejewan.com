@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fish on Maiche Jewan</title>
+    <link>/categories/fish/</link>
+    <description>Recent content in Fish on Maiche Jewan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
+    <lastBuildDate>Tue, 29 Aug 2017 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/fish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fish cutlets</title>
+      <link>/post/fish-cutlets/</link>
+      <pubDate>Tue, 29 Aug 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/fish-cutlets/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ambot teek (fish curry)</title>
+      <link>/post/ambot-teek-fish-curry/</link>
+      <pubDate>Fri, 17 Feb 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/ambot-teek-fish-curry/</guid>
+      <description>&lt;p&gt;Ambot teek (fish curry)
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ginger Garlic Fish</title>
+      <link>/post/ginger-garlic-fish/</link>
+      <pubDate>Fri, 27 Jan 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/ginger-garlic-fish/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Yet another quick dish&amp;hellip;these are especially for those times when
+guests come in uninvited or you’ve had enough of the chicken or meat.
+Boneless fish is the best pick for this one&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Maiche maasli kodi (Mum&#39;s fish Curry)</title>
+      <link>/post/masali-kodi/</link>
+      <pubDate>Mon, 01 Aug 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/post/masali-kodi/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

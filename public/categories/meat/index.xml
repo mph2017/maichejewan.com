@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meat on Maiche Jewan</title>
+    <link>/categories/meat/</link>
+    <description>Recent content in Meat on Maiche Jewan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/meat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mince pie</title>
+      <link>/post/mincepie/</link>
+      <pubDate>Sun, 05 Nov 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/mincepie/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mince with potatoes</title>
+      <link>/post/mince-with-potatoes/</link>
+      <pubDate>Tue, 29 Aug 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/mince-with-potatoes/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

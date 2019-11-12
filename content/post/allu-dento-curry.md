@@ -5,7 +5,7 @@ draft = false
 image = "img/portfolio/Alloo-dento.jpg"
 showonlyimage = false
 categories = [ "curry", "veg"] 
-weight = 4
+weight = 44
 +++
 
 

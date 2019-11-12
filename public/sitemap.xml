@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/mincepie/</loc>
-    <lastmod>2017-11-05T19:41:01+05:30</lastmod>
+    <loc>/post/kulkul/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/allu-dento-curry/</loc>
-    <lastmod>2017-09-08T19:41:01+05:30</lastmod>
+    <loc>/post/ragi_mandas/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/steamed_fish/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/shankarpali/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/pahadi_chicken_masala/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -18,13 +33,13 @@
   </url>
   
   <url>
-    <loc>/post/crab-masala/</loc>
-    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
+    <loc>/post/porkchops/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/stuffed-chicken/</loc>
-    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
+    <loc>/post/mince_greenpeas/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -158,6 +173,11 @@
   </url>
   
   <url>
+    <loc>/post/mincepie/</loc>
+    <lastmod>2017-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/beef-roast/</loc>
     <lastmod>2017-01-27T19:41:01+05:30</lastmod>
   </url>
@@ -203,6 +223,21 @@
   </url>
   
   <url>
+    <loc>/post/allu-dento-curry/</loc>
+    <lastmod>2017-09-08T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/crab-masala/</loc>
+    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/stuffed-chicken/</loc>
+    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -213,14 +248,37 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <loc>/categories/bacon/</loc>
+    <lastmod>2016-10-15T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/bacon/</loc>
+    <loc>/categories/</loc>
     <lastmod>2016-10-15T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/manchurian/</loc>
+    <lastmod>2017-11-10T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
@@ -261,12 +319,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2016-10-15T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/chana/</loc>
     <lastmod>2017-09-07T19:41:01+05:30</lastmod>
     <priority>0</priority>
@@ -274,13 +326,7 @@
   
   <url>
     <loc>/categories/chicken/</loc>
-    <lastmod>2017-07-07T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -292,7 +338,7 @@
   
   <url>
     <loc>/categories/curry/</loc>
-    <lastmod>2017-09-08T19:41:01+05:30</lastmod>
+    <lastmod>2017-02-18T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -322,7 +368,7 @@
   
   <url>
     <loc>/categories/fish/</loc>
-    <lastmod>2017-08-29T19:41:01+05:30</lastmod>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -345,26 +391,20 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/mains/</loc>
-    <lastmod>2017-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/manchurian/</loc>
-    <lastmod>2017-11-10T19:41:01+05:30</lastmod>
+    <lastmod>2017-05-01T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/meat/</loc>
-    <lastmod>2017-11-05T19:41:01+05:30</lastmod>
+    <lastmod>2017-08-29T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/mince/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -376,7 +416,7 @@
   
   <url>
     <loc>/categories/non-veg/</loc>
-    <lastmod>2017-11-05T19:41:01+05:30</lastmod>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -393,8 +433,8 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2017-11-05T19:41:01+05:30</lastmod>
+    <loc>/categories/pork/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -441,19 +481,20 @@
   </url>
   
   <url>
+    <loc>/categories/snacks/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/sweet/</loc>
     <lastmod>2017-07-07T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/veg/</loc>
-    <lastmod>2017-09-08T19:41:01+05:30</lastmod>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   

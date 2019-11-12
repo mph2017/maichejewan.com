@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Curry on Maiche Jewan</title>
+    <title>curry on Maiche Jewan</title>
     <link>/categories/curry/</link>
-    <description>Recent content in Curry on Maiche Jewan</description>
+    <description>Recent content in curry on Maiche Jewan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
-    <lastBuildDate>Fri, 08 Sep 2017 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="/categories/curry/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Allu Dento (Colocasia) curry</title>
-      <link>/post/allu-dento-curry/</link>
-      <pubDate>Fri, 08 Sep 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/post/allu-dento-curry/</guid>
-      <description>&lt;p&gt;Allu Dento (Colocasia) curry
-&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Kuvallo (ash pumpkin) bafat</title>
@@ -28,7 +17,7 @@
       <pubDate>Sat, 18 Feb 2017 19:41:01 +0530</pubDate>
       
       <guid>/post/kuvallo-ash-pumpkin-bafat/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Ingredients:  1&amp;frasl;2 kg Kuvallo (ash pumpkin), skinned, thin slices 1 cup coconut juice, thick 3 cups coconut juice, thin/diluted 3 onions, medium, sliced 2 tsp. ginger, chopped 5 cloves garlic, chopped 1&amp;frasl;4 tsp. turmeric powder 2 tsp. coriander powder 1 tsp. cumin powder 2 tsp. black pepper powder 1 tsp. garam masala powder 1 tbsp vinegar salt, to taste  For seasoning  10-12 green curry leaves 1 tsp.mustard seeds 2-3 small dried red chillies 3 tbsp oil  Method: Boil thin slices of the kuvallo (ash pumpkin) in water with turmeric and salt until when you see the pumpkin slices turn translucent.</description>
     </item>
     
     <item>
@@ -37,8 +26,16 @@
       <pubDate>Fri, 17 Feb 2017 19:41:01 +0530</pubDate>
       
       <guid>/post/ambot-teek-fish-curry/</guid>
-      <description>&lt;p&gt;Ambot teek (fish curry)
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ambot teek (fish curry)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Allu Dento (Colocasia) curry</title>
+      <link>/post/allu-dento-curry/</link>
+      <pubDate>Fri, 08 Sep 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/allu-dento-curry/</guid>
+      <description>&lt;p&gt;Allu Dento (Colocasia) curry&lt;/p&gt;</description>
     </item>
     
   </channel>

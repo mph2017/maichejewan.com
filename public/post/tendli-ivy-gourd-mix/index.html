@@ -22,12 +22,16 @@
 <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-87289291-1', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-87289291-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -136,6 +140,10 @@ ga('send', 'pageview');
         </li>
         
         <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
+          <a href="/categories/mince">mince</a>
+        </li>
+        
+        <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
           <a href="/categories/mutton">mutton</a>
         </li>
         
@@ -149,6 +157,10 @@ ga('send', 'pageview');
         
         <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
           <a href="/categories/okra">okra</a>
+        </li>
+        
+        <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
+          <a href="/categories/pork">pork</a>
         </li>
         
         <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
@@ -177,6 +189,10 @@ ga('send', 'pageview');
         
         <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
           <a href="/categories/sides">sides</a>
+        </li>
+        
+        <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
+          <a href="/categories/snacks">snacks</a>
         </li>
         
         <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
@@ -331,9 +347,7 @@ ga('send', 'pageview');
 <div class="entry-container">
 <div class="entry-content">
   <article>
-  <p></p>
-
-<h2 id="ingredients">Ingredients:</h2>
+  <h2 id="ingredients">Ingredients:</h2>
 
 <ul>
 <li><sup>1</sup>&frasl;<sub>2</sub> kg tendli (ivy gourd), sliced in 6 julienne style pieces</li>
@@ -391,10 +405,12 @@ coconut and serve.</p>
   <a href="/categories/liver" title="View all posts in liver">liver</a>
   <a href="/categories/mains" title="View all posts in mains">mains</a>
   <a href="/categories/meat" title="View all posts in meat">meat</a>
+  <a href="/categories/mince" title="View all posts in mince">mince</a>
   <a href="/categories/mutton" title="View all posts in mutton">mutton</a>
   <a href="/categories/non-veg" title="View all posts in non-veg">non-veg</a>
   <a href="/categories/novem" title="View all posts in novem">novem</a>
   <a href="/categories/okra" title="View all posts in okra">okra</a>
+  <a href="/categories/pork" title="View all posts in pork">pork</a>
   <a href="/categories/prawn" title="View all posts in prawn">prawn</a>
   <a href="/categories/pulao" title="View all posts in pulao">pulao</a>
   <a href="/categories/rice" title="View all posts in rice">rice</a>
@@ -402,6 +418,7 @@ coconut and serve.</p>
   <a href="/categories/salad" title="View all posts in salad">salad</a>
   <a href="/categories/sea-food" title="View all posts in sea-food">sea-food</a>
   <a href="/categories/sides" title="View all posts in sides">sides</a>
+  <a href="/categories/snacks" title="View all posts in snacks">snacks</a>
   <a href="/categories/sweet" title="View all posts in sweet">sweet</a>
   <a href="/categories/veg" title="View all posts in veg">veg</a>
 </p>
@@ -467,7 +484,7 @@ title="email icon"></i>
 
 <section id="comments" class="comments">
     <div id="disqus_thread"></div>
-<script>
+<script type="application/javascript">
     var disqus_config = function () {
     
     

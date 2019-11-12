@@ -5,7 +5,7 @@ draft = false
 image = "img/portfolio/Stuffed-chicken.jpg"
 showonlyimage = false
 categories = [ "chicken","mains", "non-veg"] 
-weight = 7
+weight = 75
 +++
 
 

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Egg on Maiche Jewan</title>
+    <title>egg on Maiche Jewan</title>
     <link>/categories/egg/</link>
-    <description>Recent content in Egg on Maiche Jewan</description>
+    <description>Recent content in egg on Maiche Jewan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
     <lastBuildDate>Sat, 15 Oct 2016 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="/categories/egg/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +17,7 @@
       <pubDate>Sat, 15 Oct 2016 19:41:01 +0530</pubDate>
       
       <guid>/post/bacon-and-eggs/</guid>
-      <description>&lt;p&gt;Bacon and eggs&amp;hellip; with a twist!&amp;ldquo;&amp;rdquo;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bacon and eggs&amp;hellip; with a twist!&amp;ldquo;&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
   </channel>

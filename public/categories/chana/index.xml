@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chana on Maiche Jewan</title>
+    <title>chana on Maiche Jewan</title>
     <link>/categories/chana/</link>
-    <description>Recent content in Chana on Maiche Jewan</description>
+    <description>Recent content in chana on Maiche Jewan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
     <lastBuildDate>Thu, 07 Sep 2017 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="/categories/chana/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +17,7 @@
       <pubDate>Thu, 07 Sep 2017 19:41:01 +0530</pubDate>
       
       <guid>/post/channa-sukka-dry-black-grams/</guid>
-      <description>&lt;p&gt;Channa sukka (dry black grams)
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Channa sukka (dry black grams)&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -6,7 +6,6 @@
     <description>Recent content in Categories on Maiche Jewan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2018 Maiche Jewan</copyright>
     <lastBuildDate>Sat, 15 Oct 2016 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -22,177 +21,6 @@
     </item>
     
     <item>
-      <title>Bake</title>
-      <link>/categories/bake/</link>
-      <pubDate>Fri, 17 Feb 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/bake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beef</title>
-      <link>/categories/beef/</link>
-      <pubDate>Fri, 27 Jan 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/beef/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bread</title>
-      <link>/categories/bread/</link>
-      <pubDate>Sat, 18 Feb 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/bread/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Breakfast</title>
-      <link>/categories/breakfast/</link>
-      <pubDate>Sat, 15 Oct 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/breakfast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brinjal</title>
-      <link>/categories/brinjal/</link>
-      <pubDate>Tue, 11 Oct 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/brinjal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Burger</title>
-      <link>/categories/burger/</link>
-      <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/burger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chana</title>
-      <link>/categories/chana/</link>
-      <pubDate>Thu, 07 Sep 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/chana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chicken</title>
-      <link>/categories/chicken/</link>
-      <pubDate>Fri, 07 Jul 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crab</title>
-      <link>/categories/crab/</link>
-      <pubDate>Thu, 07 Sep 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/crab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Curry</title>
-      <link>/categories/curry/</link>
-      <pubDate>Fri, 08 Sep 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/curry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dairy</title>
-      <link>/categories/dairy/</link>
-      <pubDate>Fri, 27 Jan 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/dairy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dessert</title>
-      <link>/categories/dessert/</link>
-      <pubDate>Fri, 07 Jul 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/dessert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Egg</title>
-      <link>/categories/egg/</link>
-      <pubDate>Sat, 15 Oct 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/egg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Egglant</title>
-      <link>/categories/egglant/</link>
-      <pubDate>Tue, 11 Oct 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/egglant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fish</title>
-      <link>/categories/fish/</link>
-      <pubDate>Tue, 29 Aug 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/fish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kheer</title>
-      <link>/categories/kheer/</link>
-      <pubDate>Sat, 01 Jul 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/kheer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lamb</title>
-      <link>/categories/lamb/</link>
-      <pubDate>Mon, 10 Oct 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/lamb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liver</title>
-      <link>/categories/liver/</link>
-      <pubDate>Mon, 10 Oct 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/liver/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mains</title>
-      <link>/categories/mains/</link>
-      <pubDate>Sun, 05 Nov 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/mains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Manchurian</title>
       <link>/categories/manchurian/</link>
       <pubDate>Fri, 10 Nov 2017 19:41:01 +0530</pubDate>
@@ -202,16 +30,196 @@
     </item>
     
     <item>
-      <title>Meat</title>
+      <title>bake</title>
+      <link>/categories/bake/</link>
+      <pubDate>Fri, 17 Feb 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/bake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beef</title>
+      <link>/categories/beef/</link>
+      <pubDate>Fri, 27 Jan 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/beef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bread</title>
+      <link>/categories/bread/</link>
+      <pubDate>Sat, 18 Feb 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/bread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breakfast</title>
+      <link>/categories/breakfast/</link>
+      <pubDate>Sat, 15 Oct 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brinjal</title>
+      <link>/categories/brinjal/</link>
+      <pubDate>Tue, 11 Oct 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/brinjal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>burger</title>
+      <link>/categories/burger/</link>
+      <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/burger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chana</title>
+      <link>/categories/chana/</link>
+      <pubDate>Thu, 07 Sep 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/chana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chicken</title>
+      <link>/categories/chicken/</link>
+      <pubDate>Tue, 12 Nov 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crab</title>
+      <link>/categories/crab/</link>
+      <pubDate>Thu, 07 Sep 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/crab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curry</title>
+      <link>/categories/curry/</link>
+      <pubDate>Sat, 18 Feb 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/curry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dairy</title>
+      <link>/categories/dairy/</link>
+      <pubDate>Fri, 27 Jan 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/dairy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dessert</title>
+      <link>/categories/dessert/</link>
+      <pubDate>Fri, 07 Jul 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>egg</title>
+      <link>/categories/egg/</link>
+      <pubDate>Sat, 15 Oct 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/egg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>egglant</title>
+      <link>/categories/egglant/</link>
+      <pubDate>Tue, 11 Oct 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/egglant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fish</title>
+      <link>/categories/fish/</link>
+      <pubDate>Tue, 12 Nov 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kheer</title>
+      <link>/categories/kheer/</link>
+      <pubDate>Sat, 01 Jul 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/kheer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lamb</title>
+      <link>/categories/lamb/</link>
+      <pubDate>Mon, 10 Oct 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/lamb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liver</title>
+      <link>/categories/liver/</link>
+      <pubDate>Mon, 10 Oct 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/liver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mains</title>
+      <link>/categories/mains/</link>
+      <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/mains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meat</title>
       <link>/categories/meat/</link>
-      <pubDate>Sun, 05 Nov 2017 19:41:01 +0530</pubDate>
+      <pubDate>Tue, 29 Aug 2017 19:41:01 +0530</pubDate>
       
       <guid>/categories/meat/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mutton</title>
+      <title>mince</title>
+      <link>/categories/mince/</link>
+      <pubDate>Tue, 12 Nov 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/mince/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mutton</title>
       <link>/categories/mutton/</link>
       <pubDate>Thu, 09 Nov 2017 19:41:01 +0530</pubDate>
       
@@ -220,16 +228,16 @@
     </item>
     
     <item>
-      <title>Non-veg</title>
+      <title>non-veg</title>
       <link>/categories/non-veg/</link>
-      <pubDate>Sun, 05 Nov 2017 19:41:01 +0530</pubDate>
+      <pubDate>Tue, 12 Nov 2019 19:41:01 +0530</pubDate>
       
       <guid>/categories/non-veg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Novem</title>
+      <title>novem</title>
       <link>/categories/novem/</link>
       <pubDate>Fri, 07 Jul 2017 19:41:01 +0530</pubDate>
       
@@ -238,7 +246,7 @@
     </item>
     
     <item>
-      <title>Okra</title>
+      <title>okra</title>
       <link>/categories/okra/</link>
       <pubDate>Wed, 06 Sep 2017 19:41:01 +0530</pubDate>
       
@@ -247,7 +255,16 @@
     </item>
     
     <item>
-      <title>Prawn</title>
+      <title>pork</title>
+      <link>/categories/pork/</link>
+      <pubDate>Tue, 12 Nov 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/pork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prawn</title>
       <link>/categories/prawn/</link>
       <pubDate>Sat, 18 Feb 2017 19:41:01 +0530</pubDate>
       
@@ -256,7 +273,7 @@
     </item>
     
     <item>
-      <title>Pulao</title>
+      <title>pulao</title>
       <link>/categories/pulao/</link>
       <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
       
@@ -265,7 +282,7 @@
     </item>
     
     <item>
-      <title>Rice</title>
+      <title>rice</title>
       <link>/categories/rice/</link>
       <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
       
@@ -274,7 +291,7 @@
     </item>
     
     <item>
-      <title>Roast</title>
+      <title>roast</title>
       <link>/categories/roast/</link>
       <pubDate>Fri, 27 Jan 2017 19:41:01 +0530</pubDate>
       
@@ -283,7 +300,7 @@
     </item>
     
     <item>
-      <title>Salad</title>
+      <title>salad</title>
       <link>/categories/salad/</link>
       <pubDate>Thu, 07 Sep 2017 19:41:01 +0530</pubDate>
       
@@ -292,7 +309,7 @@
     </item>
     
     <item>
-      <title>Sea-food</title>
+      <title>sea-food</title>
       <link>/categories/sea-food/</link>
       <pubDate>Thu, 07 Sep 2017 19:41:01 +0530</pubDate>
       
@@ -301,7 +318,7 @@
     </item>
     
     <item>
-      <title>Sides</title>
+      <title>sides</title>
       <link>/categories/sides/</link>
       <pubDate>Fri, 27 Jan 2017 19:41:01 +0530</pubDate>
       
@@ -310,7 +327,16 @@
     </item>
     
     <item>
-      <title>Sweet</title>
+      <title>snacks</title>
+      <link>/categories/snacks/</link>
+      <pubDate>Tue, 12 Nov 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/snacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sweet</title>
       <link>/categories/sweet/</link>
       <pubDate>Fri, 07 Jul 2017 19:41:01 +0530</pubDate>
       
@@ -319,9 +345,9 @@
     </item>
     
     <item>
-      <title>Veg</title>
+      <title>veg</title>
       <link>/categories/veg/</link>
-      <pubDate>Fri, 08 Sep 2017 19:41:01 +0530</pubDate>
+      <pubDate>Tue, 12 Nov 2019 19:41:01 +0530</pubDate>
       
       <guid>/categories/veg/</guid>
       <description></description>

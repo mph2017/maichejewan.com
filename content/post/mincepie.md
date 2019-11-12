@@ -5,7 +5,7 @@ draft = false
 image = "img/portfolio/mincepie.jpg"
 showonlyimage = false
 categories = [ "meat","mains", "non-veg"] 
-weight = 3
+weight = 35
 +++
 
 

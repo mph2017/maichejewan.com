@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -238,6 +238,176 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/chicken/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/fish/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/mince/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/non-veg/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/pork/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/snacks/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/veg/</loc>
+    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/mains/</loc>
+    <lastmod>2017-11-10T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/manchurian/</loc>
+    <lastmod>2017-11-10T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/mutton/</loc>
+    <lastmod>2017-11-09T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/meat/</loc>
+    <lastmod>2017-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/curry/</loc>
+    <lastmod>2017-09-08T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/chana/</loc>
+    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/crab/</loc>
+    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/novem/</loc>
+    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/salad/</loc>
+    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/sea-food/</loc>
+    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/okra/</loc>
+    <lastmod>2017-09-06T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/dessert/</loc>
+    <lastmod>2017-07-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/sweet/</loc>
+    <lastmod>2017-07-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/kheer/</loc>
+    <lastmod>2017-07-01T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/burger/</loc>
+    <lastmod>2017-05-01T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/pulao/</loc>
+    <lastmod>2017-05-01T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/rice/</loc>
+    <lastmod>2017-05-01T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/bread/</loc>
+    <lastmod>2017-02-18T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/prawn/</loc>
+    <lastmod>2017-02-18T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/bake/</loc>
+    <lastmod>2017-02-17T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/beef/</loc>
+    <lastmod>2017-01-27T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/dairy/</loc>
+    <lastmod>2017-01-27T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/roast/</loc>
+    <lastmod>2017-01-27T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/sides/</loc>
+    <lastmod>2017-01-27T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -250,252 +420,40 @@
   <url>
     <loc>/categories/bacon/</loc>
     <lastmod>2016-10-15T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2016-10-15T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/manchurian/</loc>
-    <lastmod>2017-11-10T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/bake/</loc>
-    <lastmod>2017-02-17T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/beef/</loc>
-    <lastmod>2017-01-27T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/bread/</loc>
-    <lastmod>2017-02-18T19:41:01+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/breakfast/</loc>
     <lastmod>2016-10-15T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/brinjal/</loc>
-    <lastmod>2016-10-11T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/burger/</loc>
-    <lastmod>2017-05-01T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/chana/</loc>
-    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/chicken/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/crab/</loc>
-    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/curry/</loc>
-    <lastmod>2017-02-18T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/dairy/</loc>
-    <lastmod>2017-01-27T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/dessert/</loc>
-    <lastmod>2017-07-07T19:41:01+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/egg/</loc>
     <lastmod>2016-10-15T19:41:01+05:30</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/brinjal/</loc>
+    <lastmod>2016-10-11T19:41:01+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/egglant/</loc>
     <lastmod>2016-10-11T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/fish/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/kheer/</loc>
-    <lastmod>2017-07-01T19:41:01+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/lamb/</loc>
     <lastmod>2016-10-10T19:41:01+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/liver/</loc>
     <lastmod>2016-10-10T19:41:01+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/mains/</loc>
-    <lastmod>2017-05-01T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/meat/</loc>
-    <lastmod>2017-08-29T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/mince/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/mutton/</loc>
-    <lastmod>2017-11-09T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/non-veg/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/novem/</loc>
-    <lastmod>2017-07-07T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/okra/</loc>
-    <lastmod>2017-09-06T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/pork/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/prawn/</loc>
-    <lastmod>2017-02-18T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/pulao/</loc>
-    <lastmod>2017-05-01T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/rice/</loc>
-    <lastmod>2017-05-01T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/roast/</loc>
-    <lastmod>2017-01-27T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/salad/</loc>
-    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/sea-food/</loc>
-    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/sides/</loc>
-    <lastmod>2017-01-27T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/snacks/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/sweet/</loc>
-    <lastmod>2017-07-07T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/veg/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-    <priority>0</priority>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

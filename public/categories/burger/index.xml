@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>burger on Maiche Jewan</title>
@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>Burger Chilly Fry</title>
-      <link>/post/burger-chilly-fry-2/</link>
-      <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
-      
-      <guid>/post/burger-chilly-fry-2/</guid>
-      <description>&lt;p&gt;Burger Chilly Fry&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Burger and green peas pulao</title>
       <link>/post/burger-and-green-peas-pulao/</link>
       <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
       
       <guid>/post/burger-and-green-peas-pulao/</guid>
       <description>&lt;p&gt;Burger and green peas pulao&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Burger Chilly Fry</title>
+      <link>/post/burger-chilly-fry-2/</link>
+      <pubDate>Mon, 01 May 2017 19:41:01 +0530</pubDate>
+      
+      <guid>/post/burger-chilly-fry-2/</guid>
+      <description>&lt;p&gt;Burger Chilly Fry&lt;/p&gt;</description>
     </item>
     
   </channel>
